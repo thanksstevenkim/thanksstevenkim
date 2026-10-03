@@ -1,6 +1,6 @@
 # Hi, I'm Steven Kim 👋
 
-[한국어](./README.md)
+[Profile summary](./README.md) · [한국어 상세](./README.ko.md)
 
 **Systems & Infrastructure · Technical Support · Service Operations**
 
