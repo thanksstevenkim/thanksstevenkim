@@ -51,6 +51,23 @@ Python과 GitHub Actions를 사용해 데이터 수집, 검증, 상태 확인, �
 
 ---
 
+### 📖 [Mastodon Korean Handbook](https://github.com/thanksstevenkim/mastodon-ko-handbook)
+
+**Technical documentation · Mastodon · Linux · Docker Compose · Fediverse**
+
+Mastodon 서버를 처음 구축하거나 운영하려는 사람을 위한 **비공식 한국어 핸드북**입니다.
+
+[mastodon-lab](https://github.com/thanksstevenkim/mastodon-lab)의 실제 운영·장애 대응 기록을 재현 가능한 안내서로 옮기고 있습니다.
+
+- Ubuntu 및 Docker Compose 기반 서버 구성 이해와 초기 설정
+- 도메인·DNS·HTTPS·메일 등 설치 전 준비
+- 운영 점검, 업그레이드, 보안 패치와 장애 진단
+- Elasticsearch Nori를 이용한 한국어 검색 개선 실험 정리
+
+기본편 7개와 운영·보안·검색 문서를 공개했으며, **신규 설치의 전체 재현 검증과 백업·복구 절차는 계속 보강 중**입니다.
+
+---
+
 ### 🧪 [LibreWiki Homelab](https://github.com/thanksstevenkim/librewiki-homelab)
 
 **Linux · Nginx · PHP-FPM · MariaDB · MediaWiki · Migration**
