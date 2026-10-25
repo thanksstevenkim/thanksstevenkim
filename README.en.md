@@ -45,6 +45,22 @@ The repository focuses on real incidents and repeatable operations rather than a
 
 ---
 
+### 📖 [Mastodon Korean Handbook](https://github.com/thanksstevenkim/mastodon-ko-handbook)
+
+**Technical documentation · Mastodon · Linux · Docker Compose · Fediverse**
+
+An **unofficial Korean-language handbook** for people setting up and maintaining their own Mastodon servers.
+
+It turns operational lessons and incident reports from [mastodon-lab](https://github.com/thanksstevenkim/mastodon-lab) into structured, reusable guidance.
+
+- Introductory chapters on Mastodon architecture, Ubuntu, Docker Compose, domains, DNS, and initial configuration
+- Operations, upgrade, security patch, and troubleshooting guides
+- An experimental case study of Korean search with Elasticsearch Nori
+
+The project currently includes seven introductory chapters and additional operations guides. **End-to-end fresh-install validation and complete recovery instructions are still in progress.**
+
+---
+
 ### 🧪 [LibreWiki Homelab](https://github.com/thanksstevenkim/librewiki-homelab)
 
 **Linux · Nginx · PHP-FPM · MariaDB · MediaWiki · Migration**
