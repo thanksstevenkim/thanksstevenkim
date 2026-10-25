@@ -11,6 +11,7 @@
 ## Featured work
 
 - 🛠 **[Mastodon Operations Lab](https://github.com/thanksstevenkim/mastodon-lab)** — 실제 Mastodon 서비스 운영, 장애 조사, 업그레이드·복구 runbook
+- 📖 **[Mastodon Korean Handbook](https://github.com/thanksstevenkim/mastodon-ko-handbook)** — 운영 경험을 바탕으로 작성 중인 비공식 한국어 Mastodon 서버 구축·운영 가이드
 - 🧪 **[LibreWiki Homelab](https://github.com/thanksstevenkim/librewiki-homelab)** — Linux / Nginx / MariaDB / MediaWiki 홈랩과 migration·호환성 실험
 - 🌐 **[The Hitchhiker's Guide to the Fediverse](https://github.com/thanksstevenkim/the-hitchhikers-guide-to-the-fediverse)** — Python 데이터 수집·검증 자동화와 GitHub Actions
 - 📚 **[thanks-wiki](https://github.com/thanksstevenkim/thanks-wiki)** — 사례와 관찰을 재사용 가능한 지식으로 연결하는 개인 위키
